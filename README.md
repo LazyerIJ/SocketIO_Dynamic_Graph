@@ -9,7 +9,7 @@
    - cd server
    - python3 app.py
 
-3. **Open Browser [127.0.0.1:8010][http://127.0.0.1:8010]**
+3. **Open Browser  [127.0.0.1:8010][http://127.0.0.1:8010]**
 
 
 
@@ -21,5 +21,5 @@
 
 
 
-![capture](/Users/lazyer/Lazyer/Git/SocketIO_Dynamic_Graph/img/capture.png)
+![capture](./img/capture.png)
 
