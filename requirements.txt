@@ -4,7 +4,7 @@
 # server/websocket/__init__.py: 1
 # server/websocket/live.py: 1
 # server/websocket/sock_namespace.py: 3
-Flask == 1.1.1
+Flask == 2.3.2
 
 # server/app.py: 3
 # server/websocket/__init__.py: 2
